@@ -1,0 +1,17 @@
+ Accuracy:  0.9436392914653784
+Classification Report
+======================================================
+               precision    recall  f1-score   support
+         0.0       0.93      1.00      0.96      1309
+         1.0       1.00      0.81      0.90       554
+    accuracy                           0.94      1863
+
+X = 6209 X 234788
+y = 1 X 6209
+
+
+X_train = 4346 X 234788
+y_train = 1 X 4346
+
+X_test = 1862 X 234788
+y_test = 1 X 1862
